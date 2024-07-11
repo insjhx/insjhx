@@ -1,16 +1,50 @@
-## Hi there 👋
+# 有思想的不定积分 | insjhx
 
-<!--
-**insjhx/insjhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 难道不是说过自学会很快么？
 
-Here are some ideas to get you started:
+你也可以叫我“小轩”或者“逆天小轩”。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+大家好，这里是有思想的不定积分，一位准初三的学生。平时喜欢乱捣鼓各种好玩的东西。是一枚萌新、蒟蒻。
+
+闲着没事干，放假的时候写各种应用工具和小游戏。个人只有python稍微拿得出手，可以用pygame和tk编写简单的游戏。
+
+我希望有一天可以实现自由想象转换为现实，所以最近的新项目——IDU项目，便是一个基础的设想展现。
+
+说来羞愧，我到2024年才拥有自己的github账号。不过我相信在这里会遇到更多的朋友，发掘更多的资源。
+
+先放个联系方式：
+
+* qq: 2947799742 (开了青少年模式，可以先找逆天团队群)
+  
+* [学而思编程: 小轩个人主页](https://code.xueersi.com/space/12907647)
+  
+* [洛谷: 小轩个人主页](https://www.luogu.com.cn/user/714541#main)
+  
+* [b站: 小轩个人主页](https://space.bilibili.com/418073971)
+  
+
+* * *
+
+## 🤝 我的团队
+
+逆天团队（InverseSky Team，意为逆转的天空，而不是逆天doge
+
+活跃成员大约三四十人。其中有很多人很有实力（我是团长，但不是最有实力的）。
+
+qq: 652920883
+
+* * *
+
+## 👨‍💻 我的项目
+
+正在编写：IDU计划。
+
+这目前是一款沙盒游戏，正在重构中。类似于mc.
+
+它由多个部分构成。我写的是2d部分，另有成员写3d部分，到时候放个仓库。（另：已经实现3d中展示2d屏幕的技术）
+
+里面会穿插故事情节、编写创造、小游戏等功能。主线的明线算是生存冒险的游戏。
+
+欢迎讨论和参与开发！
+
+**By insjhx (Updated: 2024/7/11, Y/M/D)**
