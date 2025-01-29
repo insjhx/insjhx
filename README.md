@@ -44,4 +44,9 @@ qq: 652920883
 
 **欢迎讨论和参与开发！**
 
+## 其他
+
+![](https://github-readme-stats.vercel.app/api?username=insjhx&show_icons=true&include_all_commits=true&include_orgs=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=insjhx&layout=compact)
+
 **By insjhx (Updated: 2025/1/29, Y/M/D)**
